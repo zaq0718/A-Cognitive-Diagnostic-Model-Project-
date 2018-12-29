@@ -1,1 +1,1 @@
-# A-Cognitive-Diagnostic-Model-Project-
+# A Cognitive Diagnostic Model Project
